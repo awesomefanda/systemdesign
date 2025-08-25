@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+redis>=5.0.0
+prometheus-client
+pydantic
+pydantic-settings
